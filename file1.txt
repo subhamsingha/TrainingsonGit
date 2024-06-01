@@ -1,0 +1,6 @@
+yum install git –y
+git –version or git -v
+Configure Git
+git config --global user.name "subham singha"
+git config --global user.email "singhaofficials@gmail.com"
+Please note, we are using global to set the username and e-mail for every repository on your computer. If you want to set the username/e-mail for just the current repo, you can remove global
